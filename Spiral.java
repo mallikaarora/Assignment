@@ -1,5 +1,5 @@
 import java.util.*; 
-public class BinaryNode4 
+public class Spiral
 { 
     static class Node
 { 
