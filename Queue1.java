@@ -1,6 +1,6 @@
 //Queue using two Stacks
 import java.util.*;   
-class QueueUStack  
+class Queue1  
 {  
 static class Queue  
 {  
